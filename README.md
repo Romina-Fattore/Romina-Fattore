@@ -1,6 +1,6 @@
 ### Hi there 👋 Soy Romina Carla Fattore
 
-<!--
+
 Full Stack Web Developer || HTML || CSS || JavaScript || ReactJS || Redux || Express || Node Js ||SQL ||TypeScript || NextJS
 
 
@@ -23,4 +23,4 @@ Sobre mi:
 ▪️ Proyecto Individual: https://github.com/Romina-Fattore/Proyecto-1
 ▪️Proyecto Final: https://github.com/Romina-Fattore/HealthMattersApi
 
--->
+
