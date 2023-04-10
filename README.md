@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there 👋 Soy Romina Carla Fattore
 
 <!--
-**Romina-Fattore/Romina-Fattore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Web Developer || HTML || CSS || JavaScript || ReactJS || Redux || Express || Node Js ||SQL ||TypeScript || NextJS
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Sobre mi:
+
+💻 Hard Skills:
+▪️ Web design: HTML5, CSS3, TailwindCSS, SASS, Adobe XD, Figma & Responsive design.
+▪️ Frontend development: JavaScript, ReactJS, NextJS, Redux, SWR, styled-components, proptypes & TypeScript.
+▪️ Backend development: NodeJS, ExpressJS, mongoose, mongoDB, sequelize, PostgreSQL & TypeScript
+▪️ Git
+
+
+😄 Soft Skills :
+▪️ TA en Henry
+▪️ HA en Henry
+▪️ Insignia Empatía como TA
+
+
+🗂️ Proyectos:
+▪️ Proyecto Individual: https://github.com/Romina-Fattore/Proyecto-1
+▪️Proyecto Final: https://github.com/Romina-Fattore/HealthMattersApi
 -->
