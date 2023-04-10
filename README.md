@@ -22,5 +22,9 @@ Sobre mi:
 🗂️ Proyectos:
 ▪️ Proyecto Individual: https://github.com/Romina-Fattore/Proyecto-1
 ▪️Proyecto Final: https://github.com/Romina-Fattore/HealthMattersApi
+ 
+📪 Dónde encontrarme:
+ fattorecitter@gmail.com
+ https://www.linkedin.com/in/romina-fattore/
 
 
