@@ -24,7 +24,7 @@ Sobre mi:
 ▪️Proyecto Final: https://github.com/Romina-Fattore/HealthMattersApi
  
 📪 Dónde encontrarme:
- fattorecitter@gmail.com
+ fattorecitter@gmail.com -
  https://www.linkedin.com/in/romina-fattore/
 
 
