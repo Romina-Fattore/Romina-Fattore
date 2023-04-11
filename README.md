@@ -19,6 +19,10 @@ Sobre mi:
 ▪️ Insignia Empatía como TA
 
 📊 GitHub Stats:
+
+
+
+
 ![image](https://user-images.githubusercontent.com/109178126/231183708-65825a88-bbdc-4515-a82c-e88d8424449f.png)
 
 
