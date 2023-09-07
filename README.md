@@ -1,4 +1,4 @@
-### Hi there 👋 Soy Romina Carla Fattore
+### Hola 👋 Soy Romina Carla Fattore
 
 
 Full Stack Web Developer || HTML || CSS || JavaScript || ReactJS || Redux || Express || Node Js ||SQL ||TypeScript || NextJS
